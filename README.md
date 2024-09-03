@@ -6,7 +6,7 @@
 
 </p>
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=28&center=false&vCenter=false&lines=Full+Stack+Web+Developer;Software+Engineer"alt="Currently Building Web Apps in Node & React">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=28&center=false&vCenter=false&lines=Full+Stack+Java+Developer;Software+Engineer"alt="Currently Building Web Apps in Node & React">
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me :
